@@ -1,0 +1,33 @@
+@media (max-width: 1000px){
+
+    ul .titulo1, .titulo2, .titulo3{
+        width: 100%;
+        margin: 10px;
+    }
+    header .container{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 800px){
+    .fundoPort ul li{
+        width: 100%;
+        margin: 10px;
+    }
+
+    header a img{
+        
+        height: 80px;
+        float: left;
+    }
+}
+
+@media (max-width: 1125px){
+    footer .container ul li{
+        width: 100%;
+        padding: 20px;
+    }
+}
+
+
+
